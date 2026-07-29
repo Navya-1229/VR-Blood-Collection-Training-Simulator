@@ -12,11 +12,11 @@ The **VR Blood Collection Training Simulator** is designed to provide a safe and
 
 ## 🎯 Objectives
 
-- 🏥 Simulate a virtual hospital environment.
-- 🩸 Demonstrate the blood sample collection procedure.
-- 🎮 Provide interactive VR-based learning.
-- 🧑‍⚕️ Improve understanding of healthcare procedures.
-- 🌐 Explore immersive technologies in medical education.
+-  Simulate a virtual hospital environment.
+-  Demonstrate the blood sample collection procedure.
+-  Provide interactive VR-based learning.
+-  Improve understanding of healthcare procedures.
+-  Explore immersive technologies in medical education.
 
 ---
 
@@ -40,14 +40,14 @@ Procedure Completed ✅
 
 ## ✨ Features
 
-- 🏥 Virtual Hospital Environment
-- 👨‍⚕️ Patient Avatar
-- 🖐️ Basic VR Interactions
-- 💉 Blood Collection Simulation
-- 🩺 Medical Equipment Models
-- 🎨 Realistic 3D Assets
-- 📋 Step-by-Step Procedure
-- 🎯 User-Friendly Interface
+-  Virtual Hospital Environment
+-  Patient Avatar
+-  Basic VR Interactions
+-  Blood Collection Simulation
+-  Medical Equipment Models
+-  Realistic 3D Assets
+-  Step-by-Step Procedure
+-  User-Friendly Interface
 
 ---
 
@@ -65,25 +65,25 @@ Procedure Completed ✅
 
 ## 🩺 Medical Assets
 
-- 💉 Butterfly Needle
-- 🧪 Blood Collection Tube
-- 🩹 Cotton
-- 🧤 Gloves
-- 🎗️ Tourniquet
-- 🗑️ Sharps Container
-- 🩺 Medical Tray
-- 🛏️ Hospital Bed
-- 🪑 Hospital Furniture
+-  Butterfly Needle
+-  Blood Collection Tube
+-  Cotton
+-  Gloves
+-  Tourniquet
+-  Sharps Container
+-  Medical Tray
+-  Hospital Bed
+-  Hospital Furniture
 
 ---
 
 ## 🎮 VR Interactions
 
-- 🚶 Player Navigation
-- 🖐️ Object Interaction
-- 🎯 Ray Interaction
-- ✋ Grab & Release Objects
-- 📋 Task-Based Workflow
+-  Player Navigation
+-  Object Interaction
+-  Ray Interaction
+-  Grab & Release Objects
+-  Task-Based Workflow
 
 ---
 
@@ -99,24 +99,24 @@ Procedure Completed ✅
 
 ## 💡 Learning Outcomes
 
-- 🎨 3D Modeling using Blender
-- 🎮 Unity Development
-- 🥽 XR Interaction Toolkit
-- 🧍 Mixamo Avatar Integration
-- 🏥 Healthcare Simulation Design
-- 🤝 Team Collaboration
-- 🧠 Problem Solving
+-  3D Modeling using Blender
+-  Unity Development
+-  XR Interaction Toolkit
+-  Mixamo Avatar Integration
+-  Healthcare Simulation Design
+-  Team Collaboration
+-  Problem Solving
 
 ---
 
 ## 🚀 Future Enhancements
 
-- 🥽 Full VR Support
-- ✋ Advanced Hand Tracking
-- 🤖 Improved Avatar Animations
-- 📊 Performance Optimization
-- 🩺 Additional Medical Procedures
-- 📝 User Assessment & Feedback System
+-  Full VR Support
+-  Advanced Hand Tracking
+-  Improved Avatar Animations
+-  Performance Optimization
+-  Additional Medical Procedures
+-  User Assessment & Feedback System
 
 ---
 
